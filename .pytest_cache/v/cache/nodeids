@@ -1,0 +1,9 @@
+[
+  "calculator_app/test_calculator.py::test_add_negativenumbers",
+  "calculator_app/test_calculator.py::test_add_positivenumbers",
+  "calculator_app/test_calculator.py::test_divide",
+  "calculator_app/test_calculator.py::test_multiply",
+  "calculator_app/test_calculator.py::test_subtract",
+  "calculator_app/test_calculator.py::test_subtract_mixed",
+  "calculator_app/test_calculator.py::test_subtract_negative"
+]
