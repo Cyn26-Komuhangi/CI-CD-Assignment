@@ -1,4 +1,4 @@
-name : CI WORKFLOW
+name : PRIMARY CI PIPELINE
 
 on:
   push:
